@@ -1,0 +1,41 @@
+body{
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+
+}
+.content{
+    width: 270px;
+    height: 400px;
+    background-color: #fff;
+    
+    
+}
+.gas{
+    background-color: #ff003c;
+    justify-content: center;
+    align-items: center; 
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    cursor: pointer;
+    
+} 
+.jug{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    cursor: pointer;
+    
+}
+.btn{
+    margin-left: 90px;
+    width: 90px;
+    border-radius: 15px;
+    background: rgb(116, 116, 222);
+    border: none;
+    cursor: pointer;
+}

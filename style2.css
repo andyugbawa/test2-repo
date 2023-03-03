@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(245, 52, 58);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.card{
+    width:300px;
+    height: 450px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 12px;
+}
+
+.case{
+    background-color: rgb(191, 137, 241);
+    width:300px;
+    height: 270px;
+    padding: -2px;
+    border-radius: 10px;
+   
+}
+#drag{
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
+.btn{
+    border-radius: 20px;
+    padding: 15px;
+    border: none;
+    background-color: grey;
+    color: white;
+}
